@@ -1,0 +1,12 @@
+{
+  "name": "json2html",
+  "version": "1.0.0",
+  "description": "json to html",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node test.js"
+  },
+  "author": "carlos velasquez",
+  "license": "ISC"
+}
